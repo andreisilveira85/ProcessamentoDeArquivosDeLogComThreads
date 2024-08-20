@@ -1,0 +1,5 @@
+INFO: Starting application
+ERROR: Failed to connect to database
+INFO: Retrying connection
+ERROR: Failed to connect to database
+INFO: Connection established

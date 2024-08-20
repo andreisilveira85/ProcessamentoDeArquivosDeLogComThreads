@@ -1,0 +1,3 @@
+INFO: User login successful
+ERROR: Unexpected error occurred
+INFO: User logout
